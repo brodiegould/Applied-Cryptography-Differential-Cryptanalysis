@@ -3,8 +3,6 @@ Cryptanalysis Attack on a semi-toy SPN block cipher implemented with Python. Don
 Tutorial can be found at
 https://www.engr.mun.ca/~howard/PAPERS/ldc_tutorial.pdf
 
-# Program Name
-
 ## Description
 
 This program is an implementation of the S-Box algorithm in Python.
